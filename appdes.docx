@@ -1,0 +1,143 @@
+# HR Compliance Hub - Application Description
+
+## Overview
+HR Compliance Hub is a comprehensive human resources and business management system designed to streamline HR operations, ensure compliance, track key performance indicators, and manage employee-related tasks efficiently.
+
+## Core Features
+
+### 1. Dashboard
+- Overview of key metrics and statistics
+- Task completion rates
+- Compliance scores
+- Recent notifications
+- High-priority items tracking
+
+### 2. Document Management
+- Secure document storage and organization
+- Document expiry tracking
+- Version control
+- Document status tracking (Active/Archived)
+- Export capabilities
+- File upload/download functionality
+
+### 3. Compliance Management
+- Task tracking and management
+- Priority-based task organization
+- Progress tracking with completion percentages
+- Due date monitoring
+- Task status updates
+- Automated notifications for upcoming deadlines
+
+### 4. Employee Hub
+- Employee profile management
+- Leave management system
+  - Leave requests
+  - Approval workflow
+  - Leave balance tracking
+- Document storage per employee
+- Status tracking (Active/On Leave/Terminated)
+- Employee information export
+
+### 5. Handbooks & Policies
+- Digital handbook management
+- Policy categorization
+- Section-based organization
+- Easy updates and versioning
+- Category-based filtering
+- Quick access to important sections
+
+### 6. Payroll Management
+- Payroll record tracking
+- Payment scheduling
+- Payment status monitoring
+- CSV export functionality
+- Payment history
+- Salary tracking
+- Payment processing status
+
+### 7. KPI Tracker
+- Interactive performance metrics tracking
+- Real-time data visualization
+- Key metrics monitoring:
+  - Lead generation
+  - Revenue tracking
+  - Project management
+  - Expense monitoring
+- Features:
+  - Data entry and editing
+  - Historical data tracking
+  - Multiple chart types
+  - Data export functionality
+  - Customizable timeframes
+  - Category management
+  - Target vs. actual comparison
+- Target users:
+  - Marketing agencies
+  - Freelancers
+  - Solopreneurs
+  - Business managers
+
+### 8. FAQ Knowledge Base
+- Categorized FAQ sections
+- Search functionality
+- Easy-to-navigate Q&A format
+- Categories:
+  - Employment
+  - Payroll
+  - Leave
+  - Health & Safety
+
+## Technical Features
+- Dark/Light mode support
+- Responsive design
+- Search functionality across all modules
+- Data export capabilities
+- Notification system
+- Secure data storage
+- User-friendly interface
+- Interactive charts and visualizations
+- Local data persistence
+- Dynamic data updates
+
+## Benefits
+1. **Improved Efficiency**
+   - Centralized information management
+   - Automated tracking and notifications
+   - Streamlined workflows
+   - Performance visualization
+
+2. **Better Compliance**
+   - Organized document management
+   - Task tracking
+   - Due date monitoring
+   - Policy accessibility
+
+3. **Enhanced Employee Management**
+   - Comprehensive employee profiles
+   - Leave management
+   - Document tracking
+   - Payroll organization
+
+4. **Data Accessibility**
+   - Easy information retrieval
+   - Organized knowledge base
+   - Quick access to important documents
+   - Export capabilities for reporting
+
+5. **Performance Tracking**
+   - Real-time KPI monitoring
+   - Business metrics visualization
+   - Revenue and expense tracking
+   - Project progress monitoring
+
+## Target Users
+- HR Professionals
+- Department Managers
+- Company Administrators
+- Compliance Officers
+- Payroll Managers
+- Marketing Agencies
+- Freelancers
+- Solopreneurs
+- Business Analysts
+http://localhost:3004/kpi
