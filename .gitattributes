@@ -3,5 +3,3 @@ node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node filter=lfs di
 path/to/another/large/file filter=lfs diff=lfs merge=lfs -text
 node_modules/* filter=lfs diff=lfs merge=lfs -text
 node_modules filter=lfs diff=lfs merge=lfs -text
-*.sh text eol=lf
-node_modules/.bin/* text eol=lf
