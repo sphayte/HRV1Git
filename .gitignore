@@ -1,1 +1,2 @@
-
+# Don't ignore .bin directory
+!node_modules/.bin/
